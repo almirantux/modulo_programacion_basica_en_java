@@ -1,0 +1,98 @@
+Hoy mates 27 de abril se realizaron dos ejercicios de algoritmos
+
+Resultado de su ejecución:
+
+se crearon dos algoritmos
+
+uno con la receta para preparar un completo
+
+otro con los pasos a seguir para cambiar una rueda
+
+
+Hoy miercoles  28 de abril 
+
+
+se vieron tipos de datos
+
+ 
+1. string 
+2. int
+3. boolean
+4. date
+5. double
+
+como ejemplo:
+
+double resultado;
+resultado = 3 / 2;
+cout << resultado << endl;
+
+
+El tipo double es similar a float, pero se utiliza cuando la precisión de una variable de coma flotante no es suficiente. Las variables declaradas como tipo double pueden contener aproximadamente el doble de dígitos significativos que las variables de tipo float.
+
+
+ademas se realizaron dos ejercicios mas de algoritmos
+
+
+Resultado de su ejecución:
+
+se crearon dos algoritmos
+
+uno con el calculo de rendimiento de combustible
+
+
+otro con los pasos a seguir para compra online
+
+
+ 
+Hoy jueves 29 de Abril
+
+se vio el siguiente tema:
+estructuras de control condicional
+se explico lo que son las estructuras de control condicional
+
+luego se solicita desarrollar un ejemplo
+- calcular promedio y determinar si aprueban o reprueban
+
+ejercicio
+Crear un algoritmo que permita recibir los ultimos 6 meses de remuneraciones de un trabajador para este año y para el año anterior.
+Luego calcule los promedios de cada año y si el año actual las remuneraciones disminuyeron por lo menos un 20% indique que es acreedor de un bono por $500.000
+
+se explica  teoria de conjuntos
+se explica logica proposicional
+
+
+hoy viernes 30 de abril
+vimos  expresiones logicas
+
+ejercicio
+
+investigar tablas logicas
+a=2, b=7, c=5, d=-10
+
+1) A<b and c < d
+2) (A+C) > b or d > a
+3) not(d<a and c> b)
+4) 1 si y solo si 3
+5) si 2 entonces 4
+6) si 3 entonces no 1
+
+comenzamos a ver diagramas de flujo
+
+reprentar como diagrama de flujo los algoritmos de:
+- preparar un completo
+- cambiar una rueda
+- calcular el bono de una persona
+
+Lunes 03 de Mayo
+
+hoy se vio la sentencia While, arreglos
+
+ejercicio
+crear un algoritmo que permita recibir un arreglo con la edad de 10 personas y luego mediante un While recorra las edades del arreglo para contar cuantas personas mayores de edad y cuantas personas menores de edad existen en el arreglos
+
+crear un algoritmo que permitarecibir 3 notas para 5 estudiantes y las almacene en una matriz, luego mostrara el promediode la nota 1,2 y 3 para todos los estudiantes.
+tanto la recepcion de la nota como el calculo del promedio se debe llevar a cabo por medio de un ciclo while
+
+
+
