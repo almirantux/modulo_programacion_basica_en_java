@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:
+hoy avanzamos viendo los tipos de datos en Java, ademas de trabajar en un programa de demostracion  donde se uso los tipos de datos, luego debimos crear un programa que ordenar tres numeros de menor a mayor y viceversa
+
