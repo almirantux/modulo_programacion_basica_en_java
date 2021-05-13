@@ -1,0 +1,14 @@
+
+Reflexión respecto al tema de la sesión:  
+
+no es lo mismo un equipo de trabajo que un trabajo en equipo
+
+estamos acostumbrados a codificar d inmediato , pero aqui debemos aprender los pasos previos,
+
+Diseño
+Evaluación del diseño
+Diagramacion
+Planificacion del trabajo
+y recien codificacion
+para seguir con pruebas (QA) y
+ajustes
