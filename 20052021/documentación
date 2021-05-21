@@ -1,0 +1,239 @@
+Hoy martes 27 de abril se realizaron dos ejercicios de algoritmos
+
+Resultado de su ejecución:
+
+se crearon dos algoritmos
+
+uno con la receta para preparar un completo
+
+otro con los pasos a seguir para cambiar una rueda
+
+
+Hoy miercoles  28 de abril 
+
+
+se vieron tipos de datos
+
+ 
+1. string 
+2. int
+3. boolean
+4. date
+5. double
+
+como ejemplo:
+
+double resultado;
+resultado = 3 / 2;
+cout << resultado << endl;
+
+
+El tipo double es similar a float, pero se utiliza cuando la precisión de una variable de coma flotante no es suficiente. Las variables declaradas como tipo double pueden contener aproximadamente el doble de dígitos significativos que las variables de tipo float.
+
+
+ademas se realizaron dos ejercicios mas de algoritmos
+
+
+Resultado de su ejecución:
+
+se crearon dos algoritmos
+
+uno con el calculo de rendimiento de combustible
+
+
+otro con los pasos a seguir para compra online
+
+
+ 
+Hoy jueves 29 de Abril
+
+se vio el siguiente tema:
+estructuras de control condicional
+se explico lo que son las estructuras de control condicional
+
+luego se solicita desarrollar un ejemplo
+- calcular promedio y determinar si aprueban o reprueban
+
+ejercicio
+Crear un algoritmo que permita recibir los ultimos 6 meses de remuneraciones de un trabajador para este año y para el año anterior.
+Luego calcule los promedios de cada año y si el año actual las remuneraciones disminuyeron por lo menos un 20% indique que es acreedor de un bono por $500.000
+
+se explica  teoria de conjuntos
+se explica logica proposicional
+
+
+hoy viernes 30 de abril
+vimos  expresiones logicas
+
+ejercicio
+
+investigar tablas logicas
+a=2, b=7, c=5, d=-10
+
+1) A<b and c < d
+2) (A+C) > b or d > a
+3) not(d<a and c> b)
+4) 1 si y solo si 3
+5) si 2 entonces 4
+6) si 3 entonces no 1
+
+comenzamos a ver diagramas de flujo
+
+reprentar como diagrama de flujo los algoritmos de:
+- preparar un completo
+- cambiar una rueda
+- calcular el bono de una persona
+
+Lunes 03 de Mayo
+
+hoy se vio la sentencia While, arreglos
+
+ejercicio
+crear un algoritmo que permita recibir un arreglo con la edad de 10 personas y luego mediante un While recorra las edades del arreglo para contar cuantas personas mayores de edad y cuantas personas menores de edad existen en el arreglos
+
+crear un algoritmo que permitarecibir 3 notas para 5 estudiantes y las almacene en una matriz, luego mostrara el promediode la nota 1,2 y 3 para todos los estudiantes.
+tanto la recepcion de la nota como el calculo del promedio se debe llevar a cabo por medio de un ciclo while
+
+martes 4 de mayo
+
+funciones y procedimientos
+investigar , dos ejemplos para cada uno
+instalacion de eclipse
+
+miercoles 5 de mayo
+
+vimos tipos de datos en java
+fuimos viendo un ejemplo para trabajar con los tipos de datos
+
+ejercicio
+hacer una aplicación que pida 3 numeros al usuario y luego los muestre de menor a mayor y de mayor a menor
+
+jueves 6 de mayo
+
+operadores en java 
+operadores aritmeticos, operadores asignacion, operadores relacionales, operadores incremento y operadores logicos
+
+crear una tabla con los tipos de operadores, cual es su funcion y  a que tipos de datos pueden ser aplicados
+
+ciclos en java
+----
+ciclo while
+ciclo do while
+ciclo for
+ciclo for each
+
+
+ejercicio:
+ crear un aplicación en java que permita pedir un numero al usuario y luego mostrar el factorial del numero ingresado
+ 
+ ejercicio
+ Crear una aplicacion que reciba un numero y luego indique cuantos numeros pares existen entre el 2 y el numero ingresado
+
+viernes 7 de mayo
+
+se realizo el siguiente ejercicio
+crear una aplicacion de consola en java que muestre un menu con las siguientes opciones:
+1. validar si un numero es impar
+2. validar si un numero es primo
+3. contar la cantidad de primos entre 2 y el numero ingresado
+4. salir
+la aplicacion debe ejecutarse constantemente hasta seleccionar salir
+
+sabado 8 de mayo
+
+se optimiza el codigo del programa hecho
+repasando concepto, aclarando dudas.
+
+se vuelve a ver arreglos pero como se definen en java
+
+ejercicio
+crear una aplicacion en java que pida edades al usuario y vaya almacenando en un array de tamaño 10 solo las edades mayores de edad. al llenar el arreglo mostrara las edades de menor  a mayor
+
+lunes 10
+inicio del proyecto del modulo (termina en 11 junio 2021)
+
+se define  proyecto trazabilidad
+
+nombre del proyecto, traza
+objetivo general :
+registrar contagios covid
+objetivos especificos
+registrar estado de salud del paciente
+registrar tipos de contactos
+informar posible contagio a contactos
+
+roles de la aplicación 
+paciente
+contacto estrecho
+
+alcance del proyecto
+mejorar la trazabilidad de los contagios 
+informar a los contactos estrechos de posible contagios
+
+
+
+se debera desarrollar un proyecto en el leguaje java para escritorio que al mens cumpla con lo siguiente:
+- Debera estar programado utilizando algun patron de diseño como MVC
+- Debera seguir estandares y buenas practicas de programacion como SOLID asi como preocuparse de mantener todos los principios
+ de la programacion orientada a objetos
+ - Debera construir diagramas de flujo de datos y diagramas de clases para representar el proceso de su proyecto asi como la estructura del mismo
+ - Debera desarrollar su proyecto de una manera escalable y desacoplada que permita la evolucion del proyecto asi como la correccion de errores
+ - Debera aplicar ser de test unitarios con jUnit
+ 
+ 
+ martes 11
+ se revisa y prepara el documento del proyecto
+ 
+ se define quien preparara una presentacion sobre:
+ 
+ Patron de diseño (francisco)
+ 
+ Sobre SOLID y jUnit, Ivan
+ 
+ Diagramas de flujo , Matias
+ 
+ Propuesta carta Gantt.  Jaime
+ 
+ 
+ miercoles 12
+ presentaron la propuesta de carta  Gantt
+ conversamos que estamos acostumbrados a codificar de inmediato, pero aqui debemos aprender los pasos previos,
+
+Diseño, evaluación del diseño, diagramacion, planificacion del trabajo,  y recien codificacion
+para seguir con pruebas (QA) y ajustes
+
+nos ordenarnos y organizarnos
+
+vimos conceptos de SOLID , modelos de diseño, jUnit
+
+jueves 13
+
+- avanzamos con revision de carta gantt
+- Compañero nos explico sobre herencia y polimorfismo
+- Sobre SOLID vimos algo de documentacion
+
+Solid es un acrónimo inventado por Robert C. Martin para establecer los cinco principios básicos de la programación orientada a objetos y diseño. Este acrónimo tiene bastante relación con los patrones de diseño, en especial, con la alta cohesión y el bajo acoplamiento
+https://enmilocalfunciona.io/principios-solid/
+https://www.genbeta.com/desarrollo/solid-cinco-principios-basicos-de-diseno-de-clases
+https://gustavopeiretti.com/principios-solid-con-ejemplos/
+https://desarrollowp.com/blog/tutoriales/principios-solid-de-la-programacion-orientada-a-objetos/
+https://www.ediciones-eni.com/open/mediabook.aspx?idR=ad3d3e5ffe95f529a884e3c98a465a77
+ 
+viernes 14 de Mayo
+avanzamos en los ajustes en la carta gantt
+ademas de avanzar en el codigo
+
+
+Lunes 17 de Mayo
+Revision del proyecto , y como usar git
+avance en los diagramas
+
+martes 18 de mayo 2021
+hoy trabajamos con los diagramas de flujo
+
+miercoles 19 de mayo 2021
+hoy se avanzo en diagramas de clases
+
+jueves 20 de mayo 2021
+hoy revisamos en clases los avances 
+y continuamos con los diagramas de clases
