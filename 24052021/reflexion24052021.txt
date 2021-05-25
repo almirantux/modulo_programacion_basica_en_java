@@ -1,0 +1,8 @@
+
+Reflexión respecto al tema de la sesión:  
+
+hoy nos quedo mas claro los conceptos de POO, Programación Orientada a Objetos,
+conceptos de Clases y Objetos
+
+y la diferencia entre métodos y Métodos Constructores
+
