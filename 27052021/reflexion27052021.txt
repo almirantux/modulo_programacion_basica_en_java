@@ -1,2 +1,4 @@
 
 Reflexión respecto al tema de la sesión:  
+
+al revisar el codigo , pude identificar los Metodos Constructores, y como se implementa el concepto de Herencia y el de Polimorfismo
