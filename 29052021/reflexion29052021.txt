@@ -1,0 +1,4 @@
+
+Reflexión respecto al tema de la sesión:  
+hoy revice diagramas de clases y codigo verificando que no falte algun detalle
+
