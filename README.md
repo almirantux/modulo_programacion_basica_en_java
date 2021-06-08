@@ -4,7 +4,7 @@ El proyecto del Modulo 1 fue realizado por:
 
 - Francisco-Javier Alejandro Burgos 
 - Iván Pino Antivil 
-- Jaime lopez gaete 
+- Jaime Lopez Gaete 
 - Matías Barrientos Kaba 
 - Enrique Herrera Noya
 
